@@ -1,4 +1,4 @@
-import spidev
+import spidev #импорт
 import time
 import matplotlib.pyplot as plt
 import waveFunctions as wave
