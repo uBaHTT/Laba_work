@@ -17,7 +17,7 @@ try:
     data = []
     count = 0
 
-    wave.waitForOpen()
+    wave.waitForOpen() #функция, проверяющая, открыта или закрыта дверца
 
     start = time.time()
 
